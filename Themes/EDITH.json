@@ -1,0 +1,56 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "SamPandey001",
+    "theme": "Edith",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {  
+        "updater": {    
+            "UPDATE": "*Edith is already on latest version Sir*",
+            "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },      
+        "global": { 
+            "botName": "Edith",
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "greet2": "Sir",
+            "pic1": "https://cdn.inprnt.com/thumbs/5d/0b/5d0b7faa113233d7c2a49cd8dbb80ea5@2x.jpg",
+            "pic2": "https://i.ytimg.com/vi/Ojhb7XbPnVY/maxresdefault.jpg",
+            "pic3": "https://cdn.shopify.com/s/files/1/0568/6497/articles/tom-holland-spider-man-far-from-home-dita-flight-006-sunglasses0.JPG?v=1564681631",
+            "pic4": "https://i.ytimg.com/vi/xUYf6ncyVmk/maxresdefault.jpg",
+            "pic5": "https://preview.redd.it/8z57ldmb8le61.jpg?auto=webp&s=73679075ba6ecc4c2e1582a722efaeb975aded4e",
+            "pic6": "https://cdnb.artstation.com/p/assets/images/images/036/511/783/large/risha-afiska-nabilla-tom-holland.jpg?1617870136",
+            "pic7": "https://preview.redd.it/a4x6rjp9hu271.jpg?auto=webp&s=bc7d6e52236d6534171f82d809e83d29e5d4c483",
+            "greet": "Sir",
+            "dotbody": "Edith", 
+            "promote": "Admin Role Given to my",
+            "pmallow": "*Hii,This is Edith*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by Edith_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by Edith*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by Edith",
+            "revoked": "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Edith_",
+            "demote": "Uhh,Admin Role Taken back",
+            "antlink": "Link Detected.\n*Good Bye Sir*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Edith*",
+            "mention": " Please mention any user Sir",
+            "title": "Edith",
+            "footer": "Edith-Md",
+            "by": "Made by: *CitelVoid*",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Did you mean *help?*",
+            "couple_male": "*I dont want to die alone,I want a female yaar*",
+            "couple_female": "*I dont want to die alone,I want a male yaar*",
+            "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 𝑆𝑖𝑟.❗",
+            "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+        },
+        "error": {
+            "text": "*Uhh,Got an Error*"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+"_JSON_": true,
+"AUTHOR": "SuhailTechInfo",
+"theme": "Adam",
+"LANGUAGE": "English",
+"LANGCODE": "en", 
+"STRINGS": {    
+"updater": {    
+"UPDATE": "Your bot is already on latest version Buddy",
+"NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+"UPDATED_LOCAL": "Fresh Updates Installed!"
+},     
+"global": {
+"botName": "ADAM", 
+    
+"body": "SHAZAM!",
+"greet2" : "Hey Buddy",
+"pic1": "https://wallpapercave.com/wp/wp9459573.jpg",
+"pic2": "https://wallpapercave.com/wp/wp2858079.jpg",
+"pic3": "https://wallpapercave.com/dwp1x/wp8216191.jpg",
+"pic4": "https://wallpapercave.com/dwp1x/wp9622836.jpg",
+"pic5": "https://wallpaperaccess.com/full/1079504.jpg",
+"pic6": "https://greatloveart.com/wp-content/uploads/2022/05/Black-Adam-PC-Wallpaper.jpg",
+"pic7": "https://comicyears.com/wp-content/uploads/2022/05/GalleryChar_1900x900_blackadam_52ab963299f1c0.78977706.jpg",
+"gif1": "https://tenor.com/bMLiP.gif",
+"gif2": "https://tenor.com/bf0W3.gif",
+"gif3": "https://tenor.com/SH2r.gif",
+"gif4": "https://tenor.com/bhOLh.gif",
+"gif5": "https://tenor.com/bSOTj.gif",
+"gif6": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+"gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+"greet" : "Pal", 
+"dotbody" : "I have returned..",
+"promote": "A new worthy hero arrived",
+"pmallow": "Hii,This is Black Adam\n*My Shazam seems  busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+"pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by Black Adam*_",
+"pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n *Powered by Suhail Tech Info*",
+"permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\nPowered by SuhailTech",
+"revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\nPowered by SuhailTech",
+"demote": "This is justice!",
+"antlink": "Link Detected.\n*Good Bye Worthless*",
+"session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
+"mention": " Please mention any user",
+"title": "Black Adam",
+"footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
+"by": "Made by: CitelVoid",
+"chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+"success": "Success ✓",
+"dot": "Hello Pal,I'm almost near about No One.\n Why don't you try -help",
+"couple_male": "I'm sorry i didn't understand for so long",
+"couple_female": "Put everything in your soulders",
+"admin": "This command is only for Admin⚠️!",
+"botAdmin": "Please provide me Admin Role❗",
+"owner": "This command is Only for my Owner ⚠️",
+"group": "This feature is only for Group ❗",
+"private": "This feature is only for Private chats.⚠️",
+"bot": "This feature is only for Bot Number.⚠️",
+"wait": "*Processing Your Request* ✅"
+},
+"error": {
+"text": "Task Terminated"
+}
+}
+}

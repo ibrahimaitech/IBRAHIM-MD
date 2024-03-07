@@ -1,0 +1,57 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "Valiant.v()",
+  "theme": "Naruto-Uzumaki",
+  "LANGUAGE": "English",
+  "LANGCODE": "en", 
+  "STRINGS": { 
+      "updater": { 
+          "UPDATE": "*Believe it.\nYour bot is already up-to-date*",
+          "NEW_UPDATE": "*it's time to update the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!*"
+      },      
+      "global": {   
+          "botName": "𝙽𝚊𝚛𝚞𝚝𝚘-𝚃𝚑𝚎𝚖𝚎", 
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "Hokage",
+          "pic1": "https://i.pinimg.com/originals/d9/41/8b/d9418bc48ce0520e7cc96de465fe8fff.jpg",
+          "pic2": "https://4kwallpapers.com/images/wallpapers/naruto-digital-art-black-background-amoled-3840x2160-5056.png",
+          "pic3": "https://wallpapercave.com/wp/wp5308812.jpg",
+          "pic4": "https://www.whatspaper.com/wp-content/uploads/2022/05/hd-naruto-wallpaper-whatspaper-25.jpg",
+          "pic5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VwQOTD6uVyD0q2t2Wm7zjsKafXzDxeAffQ&usqp=CAU",
+          "pic6": "https://1.bp.blogspot.com/-RyV9J0B2Myw/YGk4E7liJNI/AAAAAAAAR5Q/YKOnZN_H_5ALufwy18u-aE4WWe8BHPV8wCLcBGAsYHQ/s600/Naruto.jpeg",
+          "pic7": "https://i.pinimg.com/originals/02/07/94/020794d07925b51b3f219f2639e56214.jpg",
+           "greet" : "Believe it",
+         "dotbody" : "are you hurt,Scaredy cat.",
+           "emijii": "🍥",  
+          "promote": "Admin Role Given to genin",
+          "pmallow": "*Hii,This is Naruto-Uzumaki *\nMy Man is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚗𝚊𝚛𝚞𝚝𝚘-𝚝𝚑𝚎𝚖𝚎_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n * 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙽𝚊𝚛𝚞𝚝𝚘-𝚃𝚑𝚎𝚖𝚎*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙽𝚊𝚛𝚞𝚝𝚘-𝚃𝚑𝚎𝚖𝚎*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙽𝚊𝚛𝚞𝚝𝚘-𝚃𝚑𝚎𝚖𝚎_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Rouge ninja*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
+          "mention": " Please mention any user shinobi",
+          "title": "ɴᴀʀᴜᴛᴏ",
+          "footer": "ɴᴀʀᴜᴛᴏ",
+          "by": "Made by: *citelvoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+          "couple_male": "*sakura please.*",
+          "couple_female": "*sakura please*",
+          "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ⚠️!",
+          "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.❗",
+          "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ʜᴏᴋᴀɢᴇ ⚠️",
+          "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ sʜɪɴᴏʙɪ ᴠɪʟʟᴀɢᴇs❗",
+          "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ʜᴏᴋᴀɢᴇ ⚠️",
+          "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ʜᴏᴋᴀɢᴇ⚠️",
+          "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ𝒕✅"
+      },
+      "error": {
+          "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
+      }
+  }
+}

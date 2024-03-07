@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "SamPandey001",
+  "LANGUAGE": "English",
+  "LANGCODE": "en", 
+  "STRINGS": { 
+      "updater": {  
+          "UPDATE": "*Your bot is already on latest version Darling*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!*"
+      },     
+      "global": {   
+          "greet2": "Konnichiwa!(💚ω💚)",
+          "botName": "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨", 
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜",
+          "pic1": "https://raw.githubusercontent.com/ZeroTwoInc/Media/main/Images/hero-bg.png",
+          "pic2": "https://raw.githubusercontent.com/ZeroTwoInc/Media/main/Images/image2.png",
+          "pic3": "https://raw.githubusercontent.com/ZeroTwoInc/Media/main/Images/image3.png",
+          "pic4": "https://raw.githubusercontent.com/ZeroTwoInc/Media/main/Images/image4.png",
+          "pic5": "https://raw.githubusercontent.com/ZeroTwoInc/Media/main/Images/image5.png",
+          "pic6": "https://wallpapersmug.com/download/1600x900/070fb5/zero-two-anime-girl-digital-art.jpg",
+          "pic7": "https://github.com/ZeroTwoInc/Media/blob/main/Images/image6.png?raw=true",
+           "greet" : "Darling",
+          "dotbody" : "Hey Love,I am Alive.",
+          "promote": "Admin Role Given to my Darling",
+          "pmallow": "*Hii,This is Zero-Two*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
+          "mention": " Please mention any user Darling",
+          "title": "𝐙𝐞𝐫𝐨 𝐓𝐰𝐨", 
+          "footer": "𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝",
+          "by": "Made by: *CitelVoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Darling📍, Do you mean *-help?*",
+          "couple_male": "*I dont want to die alone,I want a female yaar*",
+          "couple_female": "*I dont want to die alone,I want a male yaar*",
+          "admin": "𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒅𝒎𝒊𝒏⚠️!",
+          "botAdmin": "𝑰𝒇 𝒚𝒐𝒖 𝒓𝒆𝒂𝒍𝒍𝒚 𝒘𝒂𝒏𝒕 𝒎𝒆 𝒕𝒐 𝒅𝒐 𝒕𝒉𝒂𝒕,𝑮𝒊𝒗𝒆 𝒎𝒆 𝒂𝒅𝒎𝒊𝒏 𝒑𝒓𝒊𝒗𝒊𝒍𝒆𝒈𝒆❗",
+          "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+          "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+          "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+}
