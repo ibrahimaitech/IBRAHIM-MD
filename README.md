@@ -1,4 +1,4 @@
-BOT SLEEPING PROBLEM FIXED
+
 
 
 
@@ -21,7 +21,7 @@ BOT SLEEPING PROBLEM FIXED
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/963f9c4a41319399f90be.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/fee6cfb80a0d9e7de6659.jpg" alt="01" border="0" /></a>                     
   𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗡𝗚𝗢𝗬𝗔
                        
  𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
@@ -40,16 +40,25 @@ BOT SLEEPING PROBLEM FIXED
 NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
 EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
 
-𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
-        👇👇👇👇
-	
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)***
+## ("𝗦𝗖𝗔𝗡")
+            👇👇👇👇
+
+ 
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/).***	("Scan 1")
+ 
+
+
+  ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-qr-1-2-1.onrender.com/).*** ("scan 2")
+
+
+  
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)*** (scan 3")
     
-   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
+   
 
 
     
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
+           
                          		 
    
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
