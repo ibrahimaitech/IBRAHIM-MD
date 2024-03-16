@@ -41,7 +41,7 @@ NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
 EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
 
 ## ("𝗦𝗖𝗔𝗡")
-            👇👇👇👇
+ 👇👇👇👇
 
  
  ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/).***	("Scan 1")
