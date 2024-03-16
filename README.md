@@ -64,7 +64,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/king-ibrahim-md/IBRAHIM-TECH/tree/main)*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-TECH-5.1/tree/main)*** 
 
 
 ### Thanks To
