@@ -44,7 +44,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
  👇👇👇👇
 
  
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/).***	("Scan 1")
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://ibrahim-tech-code-063ea7a2e69b.herokuapp.com/).***	("Scan 1")
  
 
 
