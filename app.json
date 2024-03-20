@@ -37,7 +37,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Kenya, Nairobi"
+      "value": "Kenya,Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "7a189577-12c7-4d4f-ad22-40658fdf9471",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
