@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛"
+      "value": "𝗞𝗜𝗡𝗚-𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg"
+      "value": "https://telegra.ph/file/3c4ed7e711ae4db340d17.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Kenya, Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "da318840-4c57-4712-af07-7e7d23b412ae",
+      "value": "",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
