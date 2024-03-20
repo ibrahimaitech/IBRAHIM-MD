@@ -7,18 +7,18 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="samsamsun789@gmail.com"
-global.location="BungomaKenya."
+global.email ="ngoyaibraah@gmail.com"
+global.location="Bungoma,Kenya."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
-global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
+global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
-global.github=process.env.GITHUB|| "https://github.com/king-ibrahim-md/IBRAHIM-TECH/tree/main";
+global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/IBRAHIM-TECH-5.1/tree/main";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj";
 global.website=process.env.GURL || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3c4ed7e711ae4db340d17.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -68,7 +68,7 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "Ibrahim",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+  botname : process.env.BOT_NAME  || " 𝗞𝗜𝗡𝗚-𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗",
   ownername:process.env.OWNER_NAME|| "It'x 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
