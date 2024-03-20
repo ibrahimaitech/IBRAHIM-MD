@@ -1,8 +1,8 @@
 {
    "name": "suhail-md",
-   "version": "1.2.8-beta",
+   "version": "1.3.0",
    "description": "Multi device whatsapp bot by SuhailTechInfo.",
-   "main": "lib/smd.js",
+   "main": "index.js",
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Suhail || node lib/smd.js",
