@@ -1,0 +1,80 @@
+/**
+//════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                            //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                          //
+//                                                                                            // 
+//                                         Ｖ：2．5．0                                         // 
+//                                                                                            // 
+//                                                                                            // 
+//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
+//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
+//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
+//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
+//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
+//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//════════════════════════════════════════════════════════════════════════════════════════════//
+*                                                                 
+  * @project_name : Gifted-Md
+   * @author : Gifted Tech.
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+   * @version 2.5.0
+*
+* 
+   * Created By Gifted Tech.
+   * © 2024 Gifted-Md.
+
+
+*/
+let Gifted_Md = "Gifted MD Whatsapp bot md"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const _0x1e5d5f=_0x254e;function _0x254e(_0x280ed4,_0x30122a){const _0xa97457=_0xa974();return _0x254e=function(_0x254e2f,_0x23dbc2){_0x254e2f=_0x254e2f-0x78;let _0x7dbc83=_0xa97457[_0x254e2f];return _0x7dbc83;},_0x254e(_0x280ed4,_0x30122a);}function _0xa974(){const _0x5a004b=['email','phone','\x0a*Cell:*\x20','541055nnLGGD','then','name','Generate\x20fake\x20person\x20information.','error','\x0a\x0acommand:\x20fakeinfo','last','title','username','fakeinfo','\x20(Age:\x20','age','login','https://api.maher-zubair.tech/misc/fakeinfo',')\x0a*Location:*\x20','\x0a*Email:*\x20','dob','nat','picture','34598WrHJEK','state','generateperson','json','city','../lib','performance-now','gender','24ODNxtA','\x0a*Nationality:*\x20','result','14600988esXLUf','value','1289919BpszwY','location','2553061ldbtsr','first','\x0a*Phone:*\x20','axios','9aoCiRu','\x0a*Login:*\x20\x0a\x20\x20Username:\x20','../config','85410IKNeFf','4Jpmtep','\x0a*Gifted-Md\x20Fake\x20Person\x20Info:*\x0a\x0a*Name:*\x20','*An\x20error\x20occurred\x20while\x20generating\x20fake\x20person\x20information.*','results','\x0a*ID\x20(','451UPtSqR','fakeperson','\x0a*Gender:*\x20','6GXtzqQ','reply','misc','status','3010232hKwFBH'];_0xa974=function(){return _0x5a004b;};return _0xa974();}(function(_0x3db2f3,_0x522a9d){const _0x226a47=_0x254e,_0x5b407d=_0x3db2f3();while(!![]){try{const _0x2a22f7=parseInt(_0x226a47(0x9c))/0x1*(-parseInt(_0x226a47(0xa4))/0x2)+parseInt(_0x226a47(0xa9))/0x3*(parseInt(_0x226a47(0x79))/0x4)+parseInt(_0x226a47(0x89))/0x5*(parseInt(_0x226a47(0x81))/0x6)+-parseInt(_0x226a47(0xab))/0x7+parseInt(_0x226a47(0x85))/0x8*(-parseInt(_0x226a47(0xaf))/0x9)+-parseInt(_0x226a47(0x78))/0xa*(parseInt(_0x226a47(0x7e))/0xb)+parseInt(_0x226a47(0xa7))/0xc;if(_0x2a22f7===_0x522a9d)break;else _0x5b407d['push'](_0x5b407d['shift']());}catch(_0x20c5f0){_0x5b407d['push'](_0x5b407d['shift']());}}}(_0xa974,0x3cafe));let {runtime,formatp,prefix,smd,smdBuffer}=require(_0x1e5d5f(0xa1));const axios=require(_0x1e5d5f(0xae)),os=require('os'),speed=require(_0x1e5d5f(0xa2)),Config=require(_0x1e5d5f(0xb1));smd({'pattern':_0x1e5d5f(0x92),'alias':[_0x1e5d5f(0x7f),_0x1e5d5f(0x9e)],'desc':_0x1e5d5f(0x8c),'category':_0x1e5d5f(0x83),'filename':__filename,'use':''},async _0x47d467=>{const _0x450b74=_0x1e5d5f;try{const _0x224488=_0x450b74(0x96),_0x2fc5cc=await fetch(_0x224488)[_0x450b74(0x8a)](_0x6b4b90=>_0x6b4b90[_0x450b74(0x9f)]());if(!_0x2fc5cc||_0x2fc5cc[_0x450b74(0x84)]!==0xc8)return await _0x47d467[_0x450b74(0x82)](_0x450b74(0x7b));const _0x2c742a=_0x2fc5cc[_0x450b74(0xa6)][_0x450b74(0x7c)][0x0],_0x8f3f30=_0x450b74(0x7a)+_0x2c742a[_0x450b74(0x8b)][_0x450b74(0x90)]+'.\x20'+_0x2c742a[_0x450b74(0x8b)][_0x450b74(0xac)]+'\x20'+_0x2c742a[_0x450b74(0x8b)][_0x450b74(0x8f)]+_0x450b74(0x80)+_0x2c742a[_0x450b74(0xa3)]+'\x0a*Date\x20of\x20Birth:*\x20'+_0x2c742a[_0x450b74(0x99)]['date']['split']('T')[0x0]+_0x450b74(0x93)+_0x2c742a[_0x450b74(0x99)][_0x450b74(0x94)]+_0x450b74(0x97)+_0x2c742a[_0x450b74(0xaa)]['street']+',\x20'+_0x2c742a[_0x450b74(0xaa)][_0x450b74(0xa0)]+',\x20'+_0x2c742a[_0x450b74(0xaa)][_0x450b74(0x9d)]+'\x20'+_0x2c742a[_0x450b74(0xaa)]['postcode']+_0x450b74(0x98)+_0x2c742a[_0x450b74(0x86)]+_0x450b74(0xad)+_0x2c742a[_0x450b74(0x87)]+_0x450b74(0x88)+_0x2c742a['cell']+_0x450b74(0xa5)+_0x2c742a[_0x450b74(0x9a)]+_0x450b74(0x7d)+_0x2c742a['id']['name']+'):*\x20'+_0x2c742a['id'][_0x450b74(0xa8)]+_0x450b74(0xb0)+_0x2c742a[_0x450b74(0x95)][_0x450b74(0x91)]+'\x0a\x20\x20Password:\x20'+_0x2c742a[_0x450b74(0x95)]['password']+'\x0a*Picture:*\x20'+_0x2c742a[_0x450b74(0x9b)]['large']+'\x0a';await _0x47d467[_0x450b74(0x82)](_0x8f3f30);}catch(_0xa6a233){await _0x47d467[_0x450b74(0x8d)](_0xa6a233+_0x450b74(0x8e),_0xa6a233,_0x450b74(0x7b));}});
+
+
+
+
+
