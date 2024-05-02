@@ -1,0 +1,69 @@
+/**
+//════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                            //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                          //
+//                                                                                            // 
+//                                         Ｖ：2．5．0                                         // 
+//                                                                                            // 
+//                                                                                            // 
+//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
+//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
+//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
+//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
+//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
+//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//════════════════════════════════════════════════════════════════════════════════════════════//
+*                                                                 
+  * @project_name : Gifted-Md
+   * @author : Gifted Tech.
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+   * @version 2.5.0
+*
+* 
+   * Created By Gifted Tech.
+   * © 2024 Gifted-Md.
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const _0x56303f=_0x202d;(function(_0xe42c33,_0x1ce56b){const _0x55ba71=_0x202d,_0x401c62=_0xe42c33();while(!![]){try{const _0xefb009=parseInt(_0x55ba71(0x13f))/0x1*(parseInt(_0x55ba71(0x126))/0x2)+parseInt(_0x55ba71(0x12f))/0x3+parseInt(_0x55ba71(0x14b))/0x4+-parseInt(_0x55ba71(0x13a))/0x5*(-parseInt(_0x55ba71(0x129))/0x6)+-parseInt(_0x55ba71(0x136))/0x7+-parseInt(_0x55ba71(0x12e))/0x8*(-parseInt(_0x55ba71(0x140))/0x9)+-parseInt(_0x55ba71(0x133))/0xa;if(_0xefb009===_0x1ce56b)break;else _0x401c62['push'](_0x401c62['shift']());}catch(_0x48980a){_0x401c62['push'](_0x401c62['shift']());}}}(_0x1afb,0xc1ccb));const {note,smd,prefix}=require('../lib');function _0x202d(_0x3c973f,_0x1fa04c){const _0x1afb4b=_0x1afb();return _0x202d=function(_0x202d68,_0x48913c){_0x202d68=_0x202d68-0x123;let _0x17993a=_0x1afb4b[_0x202d68];return _0x17993a;},_0x202d(_0x3c973f,_0x1fa04c);}function _0x1afb(){const _0x49ba50=['delnote\x201*','*Invalid\x20action\x20provided,\x20please\x20follow*\x20\x0a\x0a','\x0a\x0acommand:\x20delallnotes','\x0a\x0acommand:\x20addnote','28138XkseKj','570123JyKdmK','*Uhh\x20Please,\x20Provide\x20Note\x20ID.\x20Example:\x20.delnote\x201*','split','reply','\x0a\x0acommand:\x20getnote','add','allnotes','replace','new','notes','allnote','5198420hUvKPF','delnote','<\x20id|1|2\x20>','del','*Provide\x20Note\x20ID,\x20Example:\x20','delallnote','Shows\x20list\x20of\x20all\x20notes.','delall','msg','<\x20note\x20id\x20|\x201\x20>','44ScTdNO','all','error','675564GWaexf','note','╭─────\x20*『\x20GIFTED\x20MD\x20NOTES\x20』*\x20───◆\x0a┃\x20Here\x20You\x20Can\x20Store\x20Notes\x20For\x20Later\x20Use\x0a┃\x20*------------------------------------------*\x0a┃\x20\x20┌┤\x20\x20*✯----\x20ADD\x20NEW\x20NOTE\x20----⦿*\x0a┃\x20\x20│✭\x20*Cmd\x20:*\x20','Deletes\x20note\x20from\x20db.','toLowerCase','80LDDlZM','788229cbPobN','getnote\x20id|1|2|..*','*Provide\x20Note\x20ID,\x20Ex:\x20','<\x20text\x20>','15813700SQLKIB','Deletes\x20all\x20notes\x20from\x20db.','*Can\x27t\x20fetch\x20data,\x20Sorry!!*','10171189YcVbHt','\x20del\x20\x27note\x20id\x27\x0a┃\x20\x20│✭\x20*Usage\x20:*\x20Delete\x20A\x20Single\x20Note\x20By\x20ID\x20Number\x20\x0a┃\x20\x20╰───────────────────◆\x0a┃\x0a┃\x20\x20┌┤\x20\x20*✯----\x20DELETE\x20ALL\x20NOTES\x20----⦿*\x0a┃\x20\x20│✭\x20*Cmd\x20:*\x20','getnote','addnote','45BUKcam'];_0x1afb=function(){return _0x49ba50;};return _0x1afb();}smd({'cmdname':_0x56303f(0x14c),'type':_0x56303f(0x149),'filename':__filename,'fromMe':!![],'info':_0x56303f(0x12c),'use':_0x56303f(0x125)},async(_0xaea143,_0x2108ee)=>{const _0x44c140=_0x56303f;try{let _0x40ac43=_0x2108ee['split']('\x20')[0x0];if(!_0x40ac43||isNaN(_0x40ac43))return _0xaea143[_0x44c140(0x143)](_0x44c140(0x14f)+prefix+_0x44c140(0x13b));let _0x4a1061=await note['delnote'](_0xaea143,_0x40ac43);return await _0xaea143[_0x44c140(0x143)](_0x4a1061['msg']);}catch(_0x111565){await _0xaea143[_0x44c140(0x128)](_0x111565+'\x0a\x0acommand:\x20delnote',_0x111565);}}),smd({'cmdname':_0x56303f(0x150),'type':_0x56303f(0x149),'fromMe':!![],'filename':__filename,'info':_0x56303f(0x134)},async _0x3516c2=>{const _0x5bfc72=_0x56303f;try{let _0x4289e0=await note[_0x5bfc72(0x150)](_0x3516c2);return await _0x3516c2[_0x5bfc72(0x143)](_0x4289e0[_0x5bfc72(0x124)]);}catch(_0x20b275){await _0x3516c2[_0x5bfc72(0x128)](_0x20b275+_0x5bfc72(0x13d),_0x20b275);}}),smd({'cmdname':_0x56303f(0x14a),'type':'notes','filename':__filename,'fromMe':!![],'info':_0x56303f(0x151)},async _0xe1f308=>{const _0x2f3846=_0x56303f;try{let _0x3ad34f=await note[_0x2f3846(0x146)](_0xe1f308,_0x2f3846(0x127));return await _0xe1f308[_0x2f3846(0x143)](_0x3ad34f[_0x2f3846(0x124)]);}catch(_0x3b339d){await _0xe1f308['error'](_0x3b339d+'\x0a\x0acommand:\x20delallnotes',_0x3b339d,_0x2f3846(0x135));}}),smd({'cmdname':_0x56303f(0x138),'type':_0x56303f(0x149),'filename':__filename,'fromMe':!![],'info':'Shows\x20note\x20by\x20id.','use':_0x56303f(0x14d)},async(_0x197f43,_0x31abfa)=>{const _0x44362f=_0x56303f;try{if(!_0x31abfa)return await _0x197f43[_0x44362f(0x143)](_0x44362f(0x131)+prefix+_0x44362f(0x130));let _0x5b2249=await note[_0x44362f(0x146)](_0x197f43,_0x31abfa[_0x44362f(0x142)]('\x20')[0x0]['toLowerCase']()['trim']());return await _0x197f43[_0x44362f(0x143)](_0x5b2249[_0x44362f(0x124)]);}catch(_0x843ba5){await _0x197f43[_0x44362f(0x128)](_0x843ba5+_0x44362f(0x144),_0x843ba5,_0x44362f(0x135));}}),smd({'cmdname':_0x56303f(0x139),'type':_0x56303f(0x149),'info':'Adds\x20a\x20note\x20on\x20db.','fromMe':!![],'filename':__filename,'use':_0x56303f(0x132)},async(_0x550aa3,_0x44b88e)=>{const _0x12a435=_0x56303f;try{if(!_0x44b88e)return await _0x550aa3['reply']('*Please\x20provide\x20text\x20to\x20save\x20in\x20notes!*');let _0x587b48=await note[_0x12a435(0x139)](_0x550aa3,_0x44b88e);return await _0x550aa3[_0x12a435(0x143)](_0x587b48[_0x12a435(0x124)]);}catch(_0x236887){await _0x550aa3[_0x12a435(0x128)](_0x236887+'\x0a\x0acommand:\x20addnote',_0x236887);}}),smd({'cmdname':_0x56303f(0x12a),'type':_0x56303f(0x149),'fromMe':!![],'filename':__filename,'info':_0x56303f(0x151)},async(_0x17ff96,_0x4511c7,{smd:_0x215431})=>{const _0x282b09=_0x56303f;try{let _0x541d25=_0x282b09(0x12b)+(prefix+_0x215431)+'\x20add\x20\x27Your\x20Text\x27\x0a┃\x20\x20│✭\x20*Usage\x20:*\x20Save\x20Text\x20in\x20MongoDb\x20Server\x0a┃\x20\x20╰───────────────────◆\x0a┃\x0a┃\x20\x20┌┤\x20\x20*✯----\x20GET\x20ALL\x20NOTES\x20----⦿*\x0a┃\x20\x20│✭\x20*Cmd\x20:*\x20'+(prefix+_0x215431)+'\x20all\x0a┃\x20\x20│✭\x20*Usage\x20:*\x20Read/Get\x20All\x20Saved\x20Notes\x20\x0a┃\x20\x20╰───────────────────◆\x0a┃\x0a┃\x20\x20┌┤\x20\x20*✯----\x20DELETE\x20A\x20NOTE\x20----⦿*\x0a┃\x20\x20│✭\x20*Cmd\x20:*\x20'+(prefix+_0x215431)+_0x282b09(0x137)+(prefix+_0x215431)+'\x20delall\x0a┃\x20\x20│✭\x20*Usage\x20:*\x20Delete\x20All\x20Saved\x20Notes\x20\x0a┃\x20\x20╰───────────────────◆\x0a╰━━━━━━━━━━━━━━━━━━━━━━──⊷';if(!_0x4511c7)return await _0x17ff96['reply'](_0x541d25);let _0xa14d26=_0x4511c7['split']('\x20')[0x0]['trim']()[_0x282b09(0x12d)]();if(_0xa14d26==='add'||_0xa14d26===_0x282b09(0x148)){let _0x10b639=await note[_0x282b09(0x139)](_0x17ff96,_0x4511c7['replace'](_0x282b09(0x145),'')[_0x282b09(0x147)](_0x282b09(0x148),''));return await _0x17ff96['reply'](_0x10b639[_0x282b09(0x124)]);}else{if(_0xa14d26===_0x282b09(0x127)){let _0x1f4b20=await note[_0x282b09(0x146)](_0x17ff96,_0x282b09(0x127));return await _0x17ff96[_0x282b09(0x143)](_0x1f4b20['msg']);}else{if(_0xa14d26===_0x282b09(0x123)){let _0x11a175=await note['delallnote'](_0x17ff96);return await _0x17ff96[_0x282b09(0x143)](_0x11a175[_0x282b09(0x124)]);}else{if(_0xa14d26===_0x282b09(0x14e)){let _0x2ee52b=_0x4511c7['split']('\x20')[0x1];if(!_0x2ee52b||isNaN(_0x2ee52b))return _0x17ff96['reply'](_0x282b09(0x141));let _0x5cd544=await note[_0x282b09(0x14c)](_0x17ff96,_0x2ee52b);return await _0x17ff96[_0x282b09(0x143)](_0x5cd544['msg']);}else return await _0x17ff96[_0x282b09(0x143)](_0x282b09(0x13c)+_0x541d25);}}}}catch(_0x1d0af0){await _0x17ff96['error'](_0x1d0af0+_0x282b09(0x13e),_0x1d0af0,'*Can\x27t\x20fetch\x20data,\x20Sorry!*');}});
+
+
+
+
+
+
+
+

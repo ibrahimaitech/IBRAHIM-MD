@@ -1,0 +1,68 @@
+/**
+//════════════════════════════════════════════════════════════════════════════════════════════//
+//                                                                                            //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                          //
+//                                                                                            // 
+//                                         Ｖ：2．5．0                                         // 
+//                                                                                            // 
+//                                                                                            // 
+//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
+//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
+//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
+//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
+//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
+//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//                                                                                            //
+//════════════════════════════════════════════════════════════════════════════════════════════//
+*                                                                 
+  * @project_name : Gifted-Md
+   * @author : Gifted Tech.
+   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+   * @version 2.5.0
+*
+* 
+   * Created By Gifted Tech.
+   * © 2024 Gifted-Md.
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const _0x1d99a8=_0x32fa;(function(_0x4c5deb,_0x3f5208){const _0x20d451=_0x32fa,_0x34f1f1=_0x4c5deb();while(!![]){try{const _0x9159ce=parseInt(_0x20d451(0xb6))/0x1+-parseInt(_0x20d451(0xad))/0x2+-parseInt(_0x20d451(0xb0))/0x3*(parseInt(_0x20d451(0xab))/0x4)+-parseInt(_0x20d451(0xbc))/0x5+parseInt(_0x20d451(0xa4))/0x6+-parseInt(_0x20d451(0xb2))/0x7+parseInt(_0x20d451(0xba))/0x8;if(_0x9159ce===_0x3f5208)break;else _0x34f1f1['push'](_0x34f1f1['shift']());}catch(_0x4f71ec){_0x34f1f1['push'](_0x34f1f1['shift']());}}}(_0x2ae0,0x5cd1e));function _0x32fa(_0x2ad418,_0x22c8ea){const _0x2ae05f=_0x2ae0();return _0x32fa=function(_0x32fafd,_0x143443){_0x32fafd=_0x32fafd-0xa4;let _0x581885=_0x2ae05f[_0x32fafd];return _0x581885;},_0x32fa(_0x2ad418,_0x22c8ea);}let Owner='Gifted',{smd,textToLogoGenerator,prefix}=require(lib_dir),pubg={'type':_0x1d99a8(0xa9),'info':_0x1d99a8(0xb3),'filename':__filename},singleText=async(_0x18cc79,_0x231c30,{cmdName:_0x325e7a})=>{const _0x18c49b=_0x1d99a8;try{let _0x454f77={'pubg1':_0x18c49b(0xaf),'pubg2':_0x18c49b(0xbb),'pubg3':'tao-logo-pubg-truc-tuyen-mien-phi-714','pubg4':'tao-logo-mascot-pubg-online-sieu-ngau-716','pubg5':'tao-logo-pubg-truc-tuyen-nhieu-mau-sac-717','pubg6':_0x18c49b(0xb9)};if(!_0x231c30)return _0x18cc79[_0x18c49b(0xb5)](_0x18c49b(0xaa)+(prefix+_0x325e7a)+_0x18c49b(0xb7));return await textToLogoGenerator(_0x18cc79,_0x454f77[_0x325e7a],_0x231c30,_0x18c49b(0xb1),'1');}catch(_0x1406c8){return await _0x18cc79['error'](_0x1406c8+_0x18c49b(0xa7)+_0x325e7a,_0x1406c8);}};for(cmd of['pubg1',_0x1d99a8(0xb8),_0x1d99a8(0xb4),'pubg4',_0x1d99a8(0xa5),'pubg6']){smd({'cmdname':cmd,...pubg},singleText);}smd({'cmdname':_0x1d99a8(0xac),...pubg},async(_0x3bc5f9,_0x5ba0b0,{cmdName:_0x159765})=>{const _0x17dd6a=_0x1d99a8;try{let _0x3b3b6b=_0x5ba0b0?_0x5ba0b0[_0x17dd6a(0xa6)](';')[0x0]:'',_0x437260=_0x5ba0b0?_0x5ba0b0['split'](';')[0x1]:'';if(!_0x437260||!_0x3b3b6b)return await _0x3bc5f9[_0x17dd6a(0xb5)](_0x17dd6a(0xaa)+(prefix+_0x159765)+_0x17dd6a(0xa8));return await textToLogoGenerator(_0x3bc5f9,_0x17dd6a(0xae),_0x3b3b6b,_0x437260,'1');}catch(_0x501d92){return await _0x3bc5f9['error'](_0x501d92+_0x17dd6a(0xa7)+_0x159765,_0x501d92);}});function _0x2ae0(){const _0x10a779=['tao-logo-pubg-phong-cach-chibi-online-721','539392eCQZtb','tao-anh-bia-cover-facebook-game-pubg-407','800265PPMTru','3618228SfGvTI','pubg5','split','\x0a\x0acmdName:\x20','\x20text1;text2_*','pubg','*_Example\x20:\x20','44NcOreP','pubg7','358174GmhCcQ','tao-logo-pubg-truc-tuyen-phong-cach-den-trang-715','tao-cover-game-pubg-anh-bia-game-playerunknown-s-battlegrounds-401','77940TZAfZt','suhail','1209831gYvmtZ','create\x20pubg\x20text\x20logo.','pubg3','reply','507481NDwPON','\x20Panther_*','pubg2'];_0x2ae0=function(){return _0x10a779;};return _0x2ae0();}
+
+
+
+
+
